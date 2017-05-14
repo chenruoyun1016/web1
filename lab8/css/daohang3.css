@@ -1,0 +1,19 @@
+<style>
+.meau{
+	display:inline;
+}
+li{
+	float:left;
+	list-style:none;
+	background-image:url(../../../image/bg.gif);
+}
+a{
+	color:white;
+}
+#G{
+	color:white;
+}
+.specil{
+	color:yellow;
+}
+</style>

@@ -1,0 +1,18 @@
+<style>
+p{
+	border:1px solid gray;
+	width:140px;
+	height:25px;
+	margin:3px;
+}
+#G{
+	background-color:green;
+	width:140px;
+}
+body{
+	border:2px solid gray;
+	padding:10px;
+	height:300px;
+	width:160px;
+}
+</style>

@@ -1,0 +1,17 @@
+<style>
+#titlediv{
+	background-image:url(E:\WEB1\lab8\image\left_nav_title.gif);
+}
+.meau{
+    width:120px;
+    height:150px;
+	border:2px solid green;
+	background-color:gray;
+	margin-left: 40px;
+	padding-top: 5px;
+	background-position: -3em 90%;
+}
+.check{
+	color:red;
+}
+</style>
