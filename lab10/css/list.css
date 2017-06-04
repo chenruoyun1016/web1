@@ -1,0 +1,99 @@
+*{
+	padding:0px;
+	margin:0px auto;
+	font-size:12px;
+}
+a{
+	text-decoration:none;
+}
+body{
+	width:1000px;
+}
+ul li{
+	list-style:none;
+}
+#shang{
+	background-image:url(../images/bg.gif);
+	height:140px;
+	padding-top:20px;
+	padding-left:220px;
+}
+#xia{
+	background-color:red;
+	height:20px;
+	padding-left:150px;
+}
+.topa{
+	width:60px;
+	font-color:#999999;
+	display:inline;
+	border-left:1px solid white;
+	padding:6px 5px;
+}
+#biao2{
+	background:black;
+	color:white;
+}
+#biao{
+	float:right;
+}
+#context{
+	background-image:url(../images/bodybg.gif);
+	z-index:1;
+	background-repeat:repeat-x;
+}
+#tt{
+	padding-left:150px;
+}
+#zuo{
+	float:left;
+	width:200px;
+	margin-left:150px;
+}
+#zuoshang{
+	background-image:url(../images/show_bg.png);
+	z-index:2;
+	margin-bottom:30px;
+}
+#zz{
+	padding-left:30px;
+}
+#zz a:link{
+	color:#FF0000;
+	font-size:23px;
+}
+#zuozhong{
+	background-image:url(../images/news_bg.png);
+	z-index:2;
+	margin-bottom:20px;
+}
+#zzz a:link{
+	color:#FF0000;
+	font-size:20px;
+}
+#zzz{
+	padding-left:28px;
+}
+#you{
+	float:right;
+	margin-right:150px;
+	width:490px;
+}
+#youshang{
+	background-image:url(../images/listtitle.png);
+	height:45px;
+	padding-left:50px;
+	font-size:25px;
+	font-style='黑体'
+}
+#youzhong a:link{
+	font-size:25px;
+	padding-left:10px;
+}
+#foot{
+	background-image:url(../images/foot.gif);
+}
+#xiashang ul li{
+	display:inline;
+	font-size:15px;
+}
